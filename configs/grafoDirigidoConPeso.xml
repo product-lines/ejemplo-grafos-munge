@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="Grafos"/>
+	<feature automatic="selected" name="Caracteristicas"/>
+	<feature manual="selected" name="Dirigido"/>
+	<feature manual="selected" name="Peso"/>
+	<feature automatic="selected" name="Algoritmo"/>
+	<feature manual="selected" name="DFS"/>
+	<feature automatic="unselected" name="BFS"/>
+</configuration>

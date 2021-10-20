@@ -1,0 +1,10 @@
+# Archivos a ignorar en control de versiones
+# - features, contiene el código fuente anotado
+# - src, contiene el código generado
+
+# ignore los archivos generados
+src/
+
+# ignore los archivos binarios / compilados
+bin/
+tmp/
